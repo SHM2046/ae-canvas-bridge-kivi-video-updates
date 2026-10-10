@@ -1,0 +1,11 @@
+{
+  "version": "0.5.0",
+  "notes": "KIVI brige AE v0.5.0：启用独立自动更新源；修复首尾帧生成误传 aspect_ratio 导致的 InvalidParameter.TaskTypeConstraint。",
+  "package": {
+    "fileName": "AECanvasBridge-AE-v0.5.0.zip",
+    "url": "https://raw.githubusercontent.com/SHM2046/ae-canvas-bridge-kivi-video-updates/main/AECanvasBridge-AE-v0.5.0.zip",
+    "githubAsset": false,
+    "sha256": "e577ae76ba5d1e7fc7563f5828bd8cf57be00fd2baf78ff9ea84d05ed67cc33f",
+    "size": 7730097
+  }
+}
