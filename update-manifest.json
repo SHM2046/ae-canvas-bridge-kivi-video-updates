@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "notes": "KIVI brige AE v0.5.0：启用独立自动更新源；修复首尾帧生成误传 aspect_ratio 导致的 InvalidParameter.TaskTypeConstraint。",
+  "version": "0.5.1",
+  "notes": "AE 2019–2026 通用兼容测试版：以 CEP 9 / Node 8.6 / Chromium 61 为最低基线，增加旧宿主兼容层和运行环境诊断；支持从 v0.5.0 直接更新。",
   "package": {
-    "fileName": "AECanvasBridge-AE-v0.5.0-370883807285.zip",
-    "url": "https://raw.githubusercontent.com/SHM2046/ae-canvas-bridge-kivi-video-updates/main/AECanvasBridge-AE-v0.5.0-370883807285.zip",
+    "fileName": "AECanvasBridge-AE-v0.5.1-236250847f99.zip",
+    "url": "https://raw.githubusercontent.com/SHM2046/ae-canvas-bridge-kivi-video-updates/main/AECanvasBridge-AE-v0.5.1-236250847f99.zip",
     "githubAsset": false,
-    "sha256": "370883807285272d910eeaac6bc81e39bd161e3bb30baf4bc7ee3bf6adc8de2c",
-    "size": 158237
+    "sha256": "236250847f99d8d72dfef0e4a31e593ed4d0487823396857c5d21f827f250700",
+    "size": 160055
   }
 }
